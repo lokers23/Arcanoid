@@ -1,0 +1,45 @@
+{
+    "items" : [
+        {
+            "key" : "MENU",
+            "value" : "Меню"
+        },
+        {
+            "key" : "PLAY",
+            "value" : "Играть"
+        },
+        {
+            "key" : "BACK",
+            "value" : "Назад"
+        },
+        {
+            "key" : "RESTART",
+            "value" : "Рестарт"
+        },
+        {
+            "key" : "CONTINUE",
+            "value" : "Продолжить"
+        },
+        {
+            "key" : "EXIT",
+            "value" : "Выйти"
+        },
+        {
+            "key" : "NEXT",
+            "value" : "Далее"
+        },
+        {
+            "key" : "YOU_WIN!",
+            "value" : "Вы выиграли!"
+        },
+        {
+            "key" : "YOU_LOOSE!",
+            "value" : "Вы проиграли!"
+        },
+        {
+            "key" : "FIRST_PACK",
+            "value" : "Галактика Сигара"
+        }
+        
+    ]
+}
