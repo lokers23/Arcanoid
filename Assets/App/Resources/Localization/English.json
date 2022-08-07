@@ -1,0 +1,10 @@
+{
+    "menu" : "Menu",
+    "play" : "Play",
+    "victory" : "You win!",
+    "defeat" : "You lose!",
+    "back" : "Back",
+    "restart" : "Restart",
+    "exit" : "Exit",
+    "continue" : "Continue"
+}
